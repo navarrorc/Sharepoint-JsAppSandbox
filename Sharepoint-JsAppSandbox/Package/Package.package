@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="5a36dce8-0bdf-4688-ae45-31b4213ff20d" 
+        solutionId="5a36dce8-0bdf-4688-ae45-31b4213ff20d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Sharepoint_JsAppSandbox"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="2a72ce14-a362-483a-a463-65635491d946" />
+  </features>
+</package>
